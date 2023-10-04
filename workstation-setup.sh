@@ -9,3 +9,6 @@ ln -s  ~/nolan-omzsh-theme/.nolan.zsh-theme ~/.oh-my-zsh/themes/ngibb.zsh-theme
 
 mkdir -p ~/git
 git config --global core.editor vim
+
+# AWS CLI
+sudo apt-get -yq install awscli
